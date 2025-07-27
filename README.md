@@ -15,5 +15,10 @@ This project explores pizza sales data using structured SQL queries and visualiz
 - Full report: `documentation/Pizza_Sales_Report_Formatted.docx`
 
 ## 🛠 Skills Applied
-SQL, PostgreSQL, Tableau, Data Storytelling, Business Intelligence
+SQL, PostgreSQL, Power BI , Data Storytelling, Business Intelligence
+
+## IMages of the Dashboard:
+<img width="1134" height="630" alt="image" src="https://github.com/user-attachments/assets/180b9748-0c89-4e86-8627-0c530bd91809" />
+<img width="1170" height="641" alt="image" src="https://github.com/user-attachments/assets/68b9281f-4486-4df3-ac81-bec36d3d20a7" />
+
 
